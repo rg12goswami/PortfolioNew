@@ -42,7 +42,7 @@ public/
 ├── frames/
 ├── resume
 └── media assets
-
+```
 ## Install dependencies
 npm install
 
