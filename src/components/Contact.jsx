@@ -34,6 +34,7 @@ export default function Contact() {
           <a
             className="btn-pill-frosted"
             href={profile.resumeUrl}
+            download
             target="_blank"
             rel="noopener noreferrer"
           >
