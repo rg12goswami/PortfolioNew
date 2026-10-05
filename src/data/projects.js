@@ -87,4 +87,12 @@ export const projects = [
     tags: ["React.js", "Node.js", "Express.js", "SQLite"],
     links: [{ label: "Code ↗", href: "https://github.com/rg12goswami/taskflow" }],
   },
+  {
+    name: "Logic and Layers",
+    date: "",
+    desc: "Official website for Logic and Layers — a freelance web development studio building modern, scalable digital experiences.",
+    points: [],
+    tags: ["React + Vite", "Node.js", "Express.js", "MongoDB"],
+    links: [{ label: "Code ↗", href: "https://github.com/rg12goswami/Logic-and-Layers.git" }],
+  },
 ];
